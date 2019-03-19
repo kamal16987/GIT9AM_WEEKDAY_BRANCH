@@ -1,13 +1,14 @@
 package com.org.branch;
 
-public class praveenn {
+public class Janani {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s ="praveen";
-		System.out.println(s.length());
+int a=10, b=20, c;
 		
-
+		c=a+b;
+		
+		System.out.println(c);
 	}
 
 }
