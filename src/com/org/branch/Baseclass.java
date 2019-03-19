@@ -6,5 +6,8 @@ public class Baseclass {
 		System.out.println("Created a baseclass");
 
 	}
-
+public void SelectuserB() {
+	// TODO Auto-generated method stub
+System.out.println("User_B created successfully");
+}
 }
