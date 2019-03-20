@@ -31,6 +31,10 @@ public class Amzeth_02 {
 
 	public void selectDropDown() {
 		System.out.println(" Select DropDown");
+	} 
+	
+	public void sendkeys(){
+		System.out.println("sendkey methods");
 	}
 
 	public void selectDrop() {
