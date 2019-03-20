@@ -21,11 +21,11 @@ public class Amzeth_02 {
 
 	}
 
-	public void selectDropdown() {
+	public void select4567890Dropdown() {
 		System.out.println("User A created successfully");
 	}
 
-	public void launchBrowser() {
+	public void launch4567890Browser() {
 		System.out.println("User A created successfully");
 	}
 
