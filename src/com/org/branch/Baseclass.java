@@ -14,6 +14,9 @@ public class Baseclass {
 	public void select56789Dropdown() {
 		System.out.println("User A created successfully");
 	}
+	public void Alerts() {
+		System.out.println("Tamil_01 Alert added");
+	}
 
 	public void launchBrowser() {
 		System.out.println("User A created successfully");
