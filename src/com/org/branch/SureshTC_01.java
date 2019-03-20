@@ -1,6 +1,9 @@
 package com.org.branch;
 
 public class SureshTC_01 {
+	public void alerts_02() {
+		System.out.println("Tamil_02");
+	}
 
 	public static void main(String[] args) {
 		
