@@ -20,5 +20,9 @@ public class Amzeth_02 {
 		}
 
 	}
+	
+	public void selectDrop() {
+		System.out.println("Select Drop");
+	}
 
 }
