@@ -18,7 +18,10 @@ public class Amzeth_02 {
 		else {
 			System.out.println("Not an Armstrong Number");
 		}
-
+		
+		}
+	public void selectDropDown() {
+		System.out.println(" Select DropDown");
 	}
 	
 	public void selectDrop() {
