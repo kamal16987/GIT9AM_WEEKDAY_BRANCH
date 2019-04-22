@@ -1,5 +1,5 @@
 package com.org.branch;
-
+//Palindrom using scanner
 import java.util.Scanner;
 
 public class D_Palindrome {
